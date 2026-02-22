@@ -1,8 +1,8 @@
 # Oeuvre-Engine
 
-Oeuvre is an early-stage game engine that I am developing for educational and experimental purposes.
+![b0ed0bd0-848b-4a1a-9124-f1d8514a0071](https://github.com/user-attachments/assets/5424f179-a02d-4943-872d-95d5ff51143f)
 
-<img width="1477" height="1226" alt="Screenshot 2025-10-29 175518" src="https://github.com/user-attachments/assets/fd6d0390-17f3-4247-b5c6-6e228f4505cc" />
+Oeuvre is an early-stage game engine that I am developing primarily for educational and experimental purposes.
 
 ### Current features
 - IBL PBR
@@ -22,6 +22,10 @@ Q: toggle gizmo local/world mode<br>
 W/E/R: select gizmo translate/rotate/scale operation<br>
 F: throw a cube (physics demo)<br>
 F11: toggle fullscreen (borderless window)
+
+### Screenshots
+
+<img width="1477" height="1226" alt="Screenshot 2025-10-29 175518" src="https://github.com/user-attachments/assets/fd6d0390-17f3-4247-b5c6-6e228f4505cc" />
 
 ### Download
 
